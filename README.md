@@ -16,6 +16,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # ScreenShots
-
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/ChildRegister.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/ParentRegister.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/loginPage.jpeg" width="300"/>
 <img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/childHomePage.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/childChatPage.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/EmergencyContact.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/LocationPage.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/parentChatPage.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/othermodule.jpeg" width="300"/>
 
