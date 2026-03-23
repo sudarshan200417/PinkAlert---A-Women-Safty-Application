@@ -1,0 +1,77 @@
+name: women_safety_tracking_system
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI and icon packages
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^5.1.1
+
+  # WebView support
+  webview_flutter: ^4.4.2
+  webview_flutter_android: ^3.16.3
+
+  # Phone call support
+  flutter_phone_direct_caller: ^2.2.1
+
+  # Map Support
+  url_launcher: ^6.3.0
+
+  # Toast message
+  fluttertoast: ^8.2.5
+
+  # Firebase
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.0
+  shared_preferences: ^2.2.3
+  rename: ^3.1.0
+  permission_handler: ^11.3.1
+  contacts_service: ^0.6.3
+  sqflite: ^2.3.2
+  flutter_rating_bar: ^4.0.1
+  firebase_storage: ^11.0.11
+  uuid: ^3.0.7
+  image_picker: ^0.8.6+1
+  background_sms: ^0.0.4
+  geolocator: ^9.0.2
+  geocoding: ^2.0.5
+  telephony: ^0.2.0
+  cached_network_image: ^3.2.3
+  shake: ^2.2.0
+
+  flutter_background_service: ^2.4.6
+  flutter_background_service_android: ^3.0.3
+  flutter_background_service_ios: ^2.4.0
+  flutter_local_notifications: ^17.0.0
+  vibration: ^1.7.6
+  background_location: ^0.11.8
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  min_sdk_android: 21

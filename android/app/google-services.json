@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688516803971",
+    "project_id": "u-61b12",
+    "storage_bucket": "u-61b12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688516803971:android:678afe7dd4c8d1e3fe1ab6",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_tracking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqDGEksgnT7vMdqCYUJGqk2jzCuhtYDRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
