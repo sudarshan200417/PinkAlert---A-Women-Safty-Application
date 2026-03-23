@@ -1,6 +1,6 @@
-# women_safety_tracking_system
+# PinkAlert
 
-A new Flutter project.  
+A new Flutter project , where women can share current locations to their emergency contacts and also chat with them , emergency callers with emergency safe area they can identify and SOS integration with fully Database connectivity   
 
 ## Getting Started
 
