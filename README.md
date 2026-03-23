@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 # ScreenShots
 
-<img src="assets/ChildChatPage.jpeg" width="300"/>
+<img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/childHomePage.jpeg" width="300"/>
 
