@@ -15,14 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# ScreenShots
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/ChildRegister.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/ParentRegister.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/loginPage.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/childHomePage.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/childChatPage.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/EmergencyContact.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/LocationPage.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/parentChatPage.jpeg" width="300"/></p>
-<p><img src="https://github.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/blob/master/assets/othermodule.jpeg" width="300"/></p>
+## ScreenShots
+
+| | | |
+|---|---|---|
+| <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/ParentRegister.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/childChatPage.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/childHomePage.jpeg" width="200"/> |
+| <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/loginPage.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/othermodule.jpeg" width="200"/> | <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/parentChatPage.jpeg" width="200"/> |
+| <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/women1.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/route.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/sudarshan200417/PinkAlert---A-Women-Safty-Application/master/assets/logo.png" width="200"/> |
 
