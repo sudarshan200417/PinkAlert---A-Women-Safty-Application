@@ -111,13 +111,12 @@ class ParentHomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
-    // ✅ FIX: Get email instead of userType
+
     final parentEmail = MySharedPreferences.getUserEmail();
 
-    print("Parent Email: $parentEmail"); // 🔍 Debug
+    print("Parent Email: $parentEmail");
 
     return Scaffold(
-      // 🔹 Drawer
       drawer: Drawer(
         child: Column(
           children: [

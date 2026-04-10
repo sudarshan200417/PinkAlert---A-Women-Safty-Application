@@ -49,6 +49,9 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
         elevation: 6,
         shadowColor: Colors.pinkAccent.withOpacity(0.4),
         centerTitle: true,
+        iconTheme: const IconThemeData(
+          color: Colors.white,
+        ),
       ),
       body: Stack(
         children: [
