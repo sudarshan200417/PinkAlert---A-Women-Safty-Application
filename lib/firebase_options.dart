@@ -25,9 +25,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAqDGEksgnT7vMdqCYUJGqk2jzCuhtYDRI',  // Get from google-services.json -> current_key
-    appId: '1:688516803971:android:678afe7dd4c8d1e3fe1ab6',    // Get from google-services.json -> mobilesdk_app_id
-    messagingSenderId: '688516803971',  // Get from google-services.json -> project_number
-    projectId: 'u-61b12',  // Get from google-services.json -> project_id
+    apiKey: 'AIzaSyAqDGEksgnT7vMdqCYUJGqk2jzCuhtYDRI',  //google-services.json -> current_key
+    appId: '1:688516803971:android:678afe7dd4c8d1e3fe1ab6',  //google-services.json -> mobilesdk_app_id
+    messagingSenderId: '688516803971',  //google-services.json -> project_number
+    projectId: 'u-61b12',  //google-services.json -> project_id
   );
 }

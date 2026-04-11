@@ -168,7 +168,7 @@ class BottomPage extends StatefulWidget {
 class _BottomPageState extends State<BottomPage> {
   int currentIndex = 0;
 
-  /// 🔴 CHANGE 1: make pages const (important for stability)
+  //make pages const (important for stability)
   final List<Widget> pages = [
     HomeScreen(),
     ChatPage(),
@@ -240,7 +240,7 @@ class _BottomPageState extends State<BottomPage> {
         ),
       ),
 
-      /// 🔴 CHANGE 2: use IndexedStack instead of direct page
+     
       body: IndexedStack(
         index: currentIndex,
         children: pages,

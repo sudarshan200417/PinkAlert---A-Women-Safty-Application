@@ -12,7 +12,6 @@ class ChatPage extends StatelessWidget {
     return Stack(
       children: [
 
-        // 🌸 Background
         Container(
           width: double.infinity,
           height: double.infinity,
@@ -34,7 +33,7 @@ class ChatPage extends StatelessWidget {
           child: Column(
             children: [
 
-              // ✅ FIX: Added Expanded
+
               Expanded(
                 child: StreamBuilder(
                   stream: FirebaseFirestore.instance

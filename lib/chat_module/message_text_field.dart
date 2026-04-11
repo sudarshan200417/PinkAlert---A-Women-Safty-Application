@@ -1,7 +1,6 @@
 import 'dart:io';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
@@ -67,8 +66,7 @@ class _MessageTextFieldState extends State<MessageTextField> {
       permission = await Geolocator.requestPermission();
       Fluttertoast.showToast(msg: "Location permissions are  denind");
       if (permission == LocationPermission.deniedForever) {
-        Fluttertoast.showToast(
-            msg: "Location permissions are permanently denind");
+        Fluttertoast.showToast(msg: "Location permissions are permanently denind");
       }
     }
     Geolocator.getCurrentPosition(
@@ -183,7 +181,7 @@ class _MessageTextFieldState extends State<MessageTextField> {
       ),
     );
   }
-//this funcion will create a bottom sheet where location,image is can share
+//this function will create a bottom sheet where location,image is can share
   bottomsheet() {
     return Container(
       height: MediaQuery.of(context).size.height * 0.2,
